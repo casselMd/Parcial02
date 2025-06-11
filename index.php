@@ -25,7 +25,9 @@
         }
     </style>    
     <a href="./tesis.php"><button > Listar Tesis </button></a>
+    
     <a href="./tesista.php"><button > Listar Tesista </button></a>
+    <a href="https://github.com/casselMd/Parcial02">https://github.com/casselMd/Parcial02</a>
 
 </body>
 </html>
